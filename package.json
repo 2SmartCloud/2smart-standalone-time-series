@@ -1,7 +1,7 @@
 {
     "author": "2Smart",
     "dependencies": {
-        "homie-sdk": "github:2SmartCloud/2smart-standalone-homie-sdk",
+        "homie-sdk": "^1.0.0",
         "influx": "5.4.0",
         "mqtt": "3.0.0"
     },
